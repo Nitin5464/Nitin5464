@@ -1,55 +1,9 @@
-# Hi 👋, I'm Nitin Sati
+Hi, I’m Nitin Sati.
 
-🎓 Computer Science undergraduate  
-💻 Interested in AI systems, backend development, and full-stack web applications  
-🚀 I enjoy building real-world, problem-driven projects and improving them through iteration
+I’m a Computer Science undergraduate with a strong interest in backend development, AI-driven systems, and building real-world applications. I enjoy turning ideas into functional products and continuously improving them through hands-on development.
 
----
+I work mainly with Python, Java, C/C++, and modern web technologies. My projects focus on clean architecture, scalability, and practical problem-solving rather than just demonstrations.
 
-## 🔍 About Me
-- CS student with a strong foundation in core subjects (COA, TOC, DBMS, OS)
-- Actively building projects to apply concepts beyond theory
-- Focused on clean architecture, scalability, and practical usability
-- Preparing for **GATE CSE 2026**
+Alongside development, I’m preparing for GATE CSE and strengthening my fundamentals in core computer science subjects like DBMS, OS, COA, and TOC. I believe consistency, clarity, and curiosity are the keys to long-term growth in tech.
 
----
-
-## 🛠️ Tech Stack
-**Languages:**  
-`C` `C++` `Java` `Python` `JavaScript`
-
-**Backend & Web:**  
-`Django` `REST APIs` `HTML` `CSS` `Tailwind CSS`
-
-**Databases:**  
-`MySQL` `PostgreSQL`
-
-**Tools & Platforms:**  
-`Git` `GitHub` `Linux` `VS Code`
-
----
-
-## 📌 Featured Projects
-- **Legal AI Platform (VAKALAT)** – AI-powered legal assistance platform focused on Indian law  
-- **Academic & System Projects** – Implementations related to OS, DBMS, and compiler design  
-- **Web Applications** – Backend-heavy apps with authentication and structured APIs  
-
-*(More projects in repositories below ⬇️)*
-
----
-
-## 📈 Current Focus
-- Revising core CS subjects for **GATE CSE**
-- Strengthening backend architecture and system design
-- Writing cleaner, more maintainable code
-
----
-
-## 🤝 Connect
-- GitHub: You’re already here 🙂
-- Open to collaboration on meaningful tech projects
-
----
-
-⭐ *“Consistency beats intensity.”*
-
+Always open to learning, collaboration, and meaningful projects.
